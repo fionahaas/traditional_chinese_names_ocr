@@ -1,4 +1,4 @@
-# Chinese_Names_OCR
+# OCR of Chinese Names
 
 This repo aims to recognize names in traditional Chinese (MingLiu font).  
 I used the CRNN model to do the following tasks.
